@@ -13,6 +13,10 @@ $ npm start
 $ npm run storybook
 ```
 
+### Further Ideas
+
+- **Auto Update Versions:** Automatically update the UI Library dependency with Dependabot. Dependabot can be configured to only update specified repositories with the [allow attribute](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/configuration-options-for-dependency-updates#allow).
+
 
 ### Links
 - [UI Library Storybook](https://chris-heyer-planetly.github.io/npm-package-example/)
